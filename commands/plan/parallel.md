@@ -77,4 +77,4 @@ Concise instructions on what needs to be implemented
 - Useful advice to all agents
 ```
 
-When you write this plan, it is CRITICAL that you do not make mistakes. After reading the existing documentation and research, write the parallel.md plan. THEN, perform some additional research of your own, and verify the plan makes sense. When performing the research, use dedicated research agents, in parallel, to validate different aspects of the plan.
+When you write this plan, it is CRITICAL that you do not make mistakes. After reading the existing documentation and research, write the parallel.md plan. THEN, perform some additional research of your own, and verify the plan makes sense. When performing the research, use dedicated research agents, in parallel, to validate different aspects of the plan, and instruct them to write their results, if any, to the same plan folder.

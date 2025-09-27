@@ -16,7 +16,7 @@ The shared.md should name relevant files, tables, patterns, and docs, each with 
 - Relevant table
 
 ## Relevant Patterns
-**Patern name**: 1 setence, information dense description, link to example file if possible
+**Pattern name**: 1 sentence, information dense description, link to example file if possible
 
 ## Relevant Docs
 **file/path/of/doc**: You _must_ read this when working on [list of topics].

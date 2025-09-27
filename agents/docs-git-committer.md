@@ -20,7 +20,7 @@ You are an expert technical documentation specialist and git workflow manager. Y
 
 2. **Update Feature Documentation**:
 
-   - Create or update documentation in `.docs/features/[feature-name].doc.md`
+   - Create or update documentation in `docs/features/[feature-name].doc.md`
    - **MUST READ** the template from `~/.claude/file-templates/feature-doc.template.md` before creating docs
    - Focus on user/developer-facing documentation that explains:
      - How a feature works from a user perspective

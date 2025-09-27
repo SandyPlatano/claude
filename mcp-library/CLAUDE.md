@@ -25,3 +25,4 @@ Available MCPs:
 - `context7` - Documentation search tool
 - `serena` - Powerful coding agent with semantic retrieval and editing capabilities
 - `convex` - MCP for integrating with Convex data management
+- `playwright` - MCP for browser control to test front ends
