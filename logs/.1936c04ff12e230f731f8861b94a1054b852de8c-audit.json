@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/ferm/Documents/GitHub/claude/logs/.1936c04ff12e230f731f8861b94a1054b852de8c-audit.json",
+    "files": [
+        {
+            "date": 1765859185594,
+            "name": "/Users/ferm/Documents/GitHub/claude/logs/mcp-puppeteer-2025-12-15.log",
+            "hash": "e2878d867edf395e7eb0fc877f270814288a5d4bc1e769171500da1f82bd56d1"
+        }
+    ],
+    "hashType": "sha256"
+}
